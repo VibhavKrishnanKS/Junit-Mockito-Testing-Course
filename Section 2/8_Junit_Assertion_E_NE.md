@@ -75,7 +75,7 @@ And Now we Modify the code back to normal
 ```
 > Now the below code will be thro'and all the conditions gets passed
 
-f
+
 
 
 
